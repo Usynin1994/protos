@@ -1,4 +1,4 @@
-module github.com/usynin/protos
+module github.com/usynin1994/protos
 
 go 1.24.7
 
